@@ -1,0 +1,15 @@
+C:\Projects\imason.Plugins.AppVersion\imason.Plugins.AppVersion.iOS\obj\Debug\imason.Plugins.AppVersion.iOS.csprojResolveAssemblyReference.cache
+C:\Projects\imason.Plugins.AppVersion\imason.Plugins.AppVersion.iOS\bin\iPhone\Debug\Cirrious.CrossCore.dll
+C:\Projects\imason.Plugins.AppVersion\imason.Plugins.AppVersion.iOS\bin\iPhone\Debug\Cirrious.CrossCore.Touch.dll
+C:\Projects\imason.Plugins.AppVersion\imason.Plugins.AppVersion.iOS\bin\iPhone\Debug\Cirrious.MvvmCross.Binding.dll
+C:\Projects\imason.Plugins.AppVersion\imason.Plugins.AppVersion.iOS\bin\iPhone\Debug\Cirrious.MvvmCross.Binding.Touch.dll
+C:\Projects\imason.Plugins.AppVersion\imason.Plugins.AppVersion.iOS\bin\iPhone\Debug\Cirrious.MvvmCross.dll
+C:\Projects\imason.Plugins.AppVersion\imason.Plugins.AppVersion.iOS\bin\iPhone\Debug\Cirrious.MvvmCross.Localization.dll
+C:\Projects\imason.Plugins.AppVersion\imason.Plugins.AppVersion.iOS\bin\iPhone\Debug\Cirrious.MvvmCross.Touch.dll
+C:\Projects\imason.Plugins.AppVersion\imason.Plugins.AppVersion.iOS\bin\iPhone\Debug\imason.Plugins.AppVersion.dll
+C:\Projects\imason.Plugins.AppVersion\imason.Plugins.AppVersion.iOS\bin\iPhone\Debug\imason.Plugins.AppVersion.pdb
+C:\Projects\imason.Plugins.AppVersion\imason.Plugins.AppVersion.iOS\bin\iPhone\Debug\imason.Plugins.AppVersion.dll.mdb
+C:\Projects\imason.Plugins.AppVersion\imason.Plugins.AppVersion.iOS\bin\iPhone\Debug\imason.Plugins.AppVersion.Touch.dll
+C:\Projects\imason.Plugins.AppVersion\imason.Plugins.AppVersion.iOS\bin\iPhone\Debug\imason.Plugins.AppVersion.Touch.pdb
+C:\Projects\imason.Plugins.AppVersion\imason.Plugins.AppVersion.iOS\obj\Debug\imason.Plugins.AppVersion.Touch.dll
+C:\Projects\imason.Plugins.AppVersion\imason.Plugins.AppVersion.iOS\obj\Debug\imason.Plugins.AppVersion.Touch.pdb

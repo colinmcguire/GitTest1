@@ -1,0 +1,7 @@
+C:\Projects\imason.Plugins.AppVersion\imason.Plugins.AppVersion\bin\Debug\imason.Plugins.AppVersion.dll
+C:\Projects\imason.Plugins.AppVersion\imason.Plugins.AppVersion\bin\Debug\imason.Plugins.AppVersion.pdb
+C:\Projects\imason.Plugins.AppVersion\imason.Plugins.AppVersion\bin\Debug\Cirrious.CrossCore.dll
+C:\Projects\imason.Plugins.AppVersion\imason.Plugins.AppVersion\bin\Debug\Cirrious.MvvmCross.dll
+C:\Projects\imason.Plugins.AppVersion\imason.Plugins.AppVersion\bin\Debug\Cirrious.MvvmCross.Localization.dll
+C:\Projects\imason.Plugins.AppVersion\imason.Plugins.AppVersion\obj\Debug\imason.Plugins.AppVersion.dll
+C:\Projects\imason.Plugins.AppVersion\imason.Plugins.AppVersion\obj\Debug\imason.Plugins.AppVersion.pdb
